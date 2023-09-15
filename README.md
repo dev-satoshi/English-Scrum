@@ -1,1 +1,1 @@
-# Daily-Scrum
+# English-Scrum
